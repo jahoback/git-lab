@@ -1,2 +1,4 @@
-Janelle Hoback
-jahoback
+Name: Janelle Hoback
+Username: jahoback
+Email: jh294322@ohio.edu
+Note: Answers are recorded in answers.md
